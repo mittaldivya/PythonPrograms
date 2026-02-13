@@ -1,2 +1,2 @@
 # Python Practice
-12-Feb-2026 basic functionality of panda library
+13-Feb-2026 basic functionality of panda library day 01
